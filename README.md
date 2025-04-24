@@ -1,4 +1,3 @@
-# American-Express---Default-Prediction
 # American Express - Default Prediction
 
 American Express is a globally integrated payments company and the largest payment card issuer in the world. The objective of this project is to predict the probability that a customer does not pay back their credit card balance amount in the future based on their monthly customer profile. The target binary variable is calculated by observing an 18-month performance window after the latest credit card statement, and if the customer does not pay the due amount in 120 days after their latest statement date, it is considered a default event.
