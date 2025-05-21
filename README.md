@@ -278,7 +278,7 @@ For each model, you can see any relevant images of evaluation metrics and plots 
 ---
 
 ## Contributors
-
+[Parth Patel](https://github.com/patelandpatel)<br>
 [Ethan Silvas](https://github.com/ethansilvas) <br>
 [Naomy Velasco](https://github.com/naomynaomy) <br>
 [Karim Bouzina](https://github.com/karim985) <br>
